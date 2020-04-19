@@ -1,0 +1,62 @@
+.flex_box
+{
+  margin-top: 5%;
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+}
+
+#photo_box
+{
+  width: 20%;
+  box-shadow: 1px 1px 10px #cfcfcf;
+  border-radius: 15px;
+  margin-left: 50px;
+  margin-right: 70px;
+}
+
+#photo_box img
+{
+  width: 100%;
+  border-radius: 15px;
+}
+
+.text_box
+{
+  display: table-cell;
+  width: 35%;
+  background-color: white;
+  padding: 40px 20px 0px 20px;
+  border-radius: 15px; 
+  box-shadow: 1px 1px 10px #cfcfcf;
+  margin-left: 50px;
+  text-align: justify;
+  vertical-align: middle;
+}
+
+.text
+{
+  margin: auto;
+  font-size: 20px;
+  font-weight: 100;
+  color:#696969;
+  white-space: pre-wrap;
+  justify-content: center;
+}
+
+#div_linkedin
+{
+  background-color: #2984c0;
+  width: 120px;
+  height: 30px;
+  border-radius: 15px;
+  padding: 10px 10px 0px 10px
+}
+
+#linkedin_link
+{
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  font-weight: 800;
+}
