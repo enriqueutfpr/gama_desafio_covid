@@ -146,7 +146,7 @@
   vertical-align: middle;
 }
 
-.div_multirow 
+.div_multirow  
 {
   background-color: white;
   border-radius: 15px;
@@ -198,7 +198,6 @@
 
 .notice_box a p
 {
-  
   margin-bottom: 0px;
   color: #696969;
   font-size: 18px;
@@ -206,11 +205,23 @@
   text-align: justify;
 }
 
+.notice_video_box
+{
+  color: #2984c0;
+  background-color: white;
+  width: 25%;
+  padding: 10px;
+  border-radius: 15px; 
+  box-shadow: 1px 1px 10px #cfcfcf;
+  justify-content: center;
+  margin-left: 50px;
+  white-space: pre-wrap;
+}
+
 
 .svg
 {
-  height: 200px;
-  width: 180px;
+   width: 180px;
   align-content: center;
 }
 .svg:hover

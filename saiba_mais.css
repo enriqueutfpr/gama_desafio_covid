@@ -1,0 +1,37 @@
+
+
+.flex_container_sbm
+{
+  margin-top: 5%;
+  display: flex;
+  flex-flow: row;
+}
+
+.flex_container_sbm:hover
+{
+  box-shadow: 1px 1px 10px #2984c0;
+  transition: linear 0.5s;
+}
+
+.text
+{
+  font-size: 20px;
+  color: #525252;
+  text-align: center;
+  display: block;
+  text-decoration: none;
+}
+
+.text:hover
+{
+  font: 24px;
+  transition: linear 0.5s;
+}
+
+
+
+h3
+{
+  font-size: 30;
+  color: #2984c0;
+}
